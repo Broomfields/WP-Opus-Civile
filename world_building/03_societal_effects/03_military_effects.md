@@ -1,0 +1,3 @@
+# Military Effects
+
+TODO
